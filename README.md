@@ -1,6 +1,6 @@
 # Generate_Histogram
 
-Sure, let's break down these two programs:
+These programs are designed to be run in linux and a text file being used as the input.
 
 histString.c
 **Word Frequency Program**: The first program is designed to calculate the frequency of each unique word entered by the user. It reads words from the standard input until EOF (End Of File) is encountered. The words are stored in an array and the frequency of each unique word is calculated and stored in a histogram. The histogram is then sorted in descending order based on the frequency of each word. Finally, the program displays each word along with its frequency before and after sorting.
